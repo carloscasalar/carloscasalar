@@ -6,7 +6,6 @@
     - [Get your work (and that of your reports) recognized](https://jvns.ca/blog/brag-documents/)
 - 💞️ I’m looking to collaborate on TTRPG-related utilities/libs written in Typescript, javascript or Go.
 - 📫 You can reach me on Twitter [@carloscasalar](https://twitter.com/carloscasalar).
-- 🧑‍💻 From 14th to 17th Nov, I'll be attending the [open refactoring course](https://www.codium.team/curso-refactoring-a-patrones.html) by [@CodiumTeam](https://twitter.com/codiumteam)
 
 <!---
 carloscasalar/carloscasalar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
